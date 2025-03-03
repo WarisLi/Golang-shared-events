@@ -1,3 +1,3 @@
-module github.com/WarisLi/Golang-events
+module github.com/WarisLi/Golang-shared-events
 
 go 1.23.2
